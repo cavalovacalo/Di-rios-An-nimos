@@ -9,9 +9,9 @@ body {
 }
 
 main {
-    background-color: rgb(245, 199, 13);
+    background-color: rgb(13, 28, 245);
     width: 1000px;
     margin: auto;
     padding: 20px;
-    box-shadow: Jpx Jpx rgba(0, 0, 0.473);
+    box-shadow: Jpx Jpx rgb(252, 4, 4);
 }
