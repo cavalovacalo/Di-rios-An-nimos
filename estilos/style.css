@@ -15,11 +15,3 @@ main {
     padding: 20px;
     box-shadow: Jpx Jpx rgba(0, 0, 0.473);
 }
-
-main {
-    background-color: chartreuse;
-    width: 100px;
-    margin: auto;
-    padding: 50px;
-    box-shadow: darkblue;
-}
