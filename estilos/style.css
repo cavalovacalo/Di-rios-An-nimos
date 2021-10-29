@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(245, 12, 12);
 
 }
 
@@ -13,5 +13,5 @@ main {
     width: 1000px;
     margin: auto;
     padding: 20px;
-    box-shadow: Jpx Jpx rgb(252, 4, 4);
+    box-shadow: Jpx Jpx rgb(7, 7, 7);
 }
