@@ -4,16 +4,16 @@
 }
 
 body {
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(126, 59, 235);
 
 }
 
 main {
-    background-color: rgb(245, 199, 13);
+    background-color: rgb(244, 244, 248);
     width: 1000px;
     margin: auto;
     padding: 20px;
-    box-shadow: Jpx Jpx rgba(0, 0, 0.473);
+    box-shadow: Jpx Jpx rgb(7, 7, 7);
 }
 
 main {
@@ -24,3 +24,6 @@ main {
     box-shadow: darkblue;
 }
 
+img.lado{
+    float: right
+}
