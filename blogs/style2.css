@@ -10,17 +10,17 @@ body {
 
 main {
     background-color: rgb(244, 244, 248);
-    width: 1000px;
+    width: 500px;
     margin: auto;
-    padding: 20px;
+    padding: 100px;
     box-shadow: Jpx Jpx rgb(7, 7, 7);
 }
 
 main {
-    background-color: chartreuse;
-    width: 100px;
+    background-color: rgb(247, 248, 247);
+    width: 500px;
     margin: auto;
-    padding: 50px;
+    padding: 40px;
     box-shadow: darkblue;
 }
 
