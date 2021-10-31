@@ -1,2 +1,2 @@
-# Diários-anõnimos
+# Diários-anônimos
  site pra valer
