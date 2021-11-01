@@ -3,21 +3,18 @@
     font-size: 16px;
 }
 
-main {
-    background-color: rgb(247, 248, 247);
-    width: 500px;
-    margin: auto;
-    padding: 40px;
-    box-shadow: darkblue;
+body {
+    background-color: rgb(211, 6, 252);
 }
 
 <style>
-        body {
-            background-color: darkgrey;
-        }
+body {
+    background-color: rgb(211, 6, 252);
+}
+
 
         main {
-            background-color: gainsboro;
+            background-color: rgb(255, 254, 254);
             padding: 20px;
             border-radius: 10px;
 
