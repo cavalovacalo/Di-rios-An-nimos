@@ -1,2 +1,2 @@
-# Diários-anônimos
+# Diário Compartilhado
  site pra valer
